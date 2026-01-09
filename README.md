@@ -111,7 +111,9 @@ If you discover any security related issues, please email khantnyar.dev@gmail.co
 ## Credits
 
 -   [Khant-Nyar](https://github.com/khant-nyar)
+-   [HeinHtet](https://github.com/khant-nyar)
 -   [All Contributors](../../contributors)
+
 
 ## License
 
